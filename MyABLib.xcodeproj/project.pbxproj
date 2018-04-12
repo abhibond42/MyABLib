@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C8D649A8207E21A3000D852D /* LogTest.swift in Headers */ = {isa = PBXBuildFile; fileRef = C8EBC529207E058B003ED1BE /* LogTest.swift */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8EBC519207E0567003ED1BE /* MyABLib.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C8EBC50F207E0567003ED1BE /* MyABLib.framework */; };
 		C8EBC51E207E0567003ED1BE /* MyABLibTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8EBC51D207E0567003ED1BE /* MyABLibTests.swift */; };
 		C8EBC520207E0567003ED1BE /* MyABLib.h in Headers */ = {isa = PBXBuildFile; fileRef = C8EBC512207E0567003ED1BE /* MyABLib.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -97,6 +98,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C8EBC520207E0567003ED1BE /* MyABLib.h in Headers */,
+				C8D649A8207E21A3000D852D /* LogTest.swift in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
